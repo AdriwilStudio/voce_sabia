@@ -221,8 +221,8 @@
 	
 	@media (max-width: 304px){
 		iframe{
-			width: 140px;
-			height: 640px;
+			width: 100%;
+			height: 100%;
 		}
 	}
 
